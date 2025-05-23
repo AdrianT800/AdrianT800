@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory (Directory service)</b>
-  - [Active Directory: Preparing AD Infrastructure](https://github.com/AdrianT800/osticket-prereqs)
+  - [Active Directory: Preparing AD Infrastructure](https://github.com/AdrianT800/Preparing-AD-Infrastructure)
   - [Active Directory: Deploying Active Directory](https://github.com/joshmadakorcc/post-install-config)
   - [Active Directory: Creating Users with Powershell](https://github.com/joshmadakorcc/ticket-lifecycle)
   - [Active Directory: Group Policy and Managing Accounts](https://github.com/joshmadakorcc/ticket-lifecycle)
