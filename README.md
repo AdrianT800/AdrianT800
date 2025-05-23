@@ -1,4 +1,4 @@
-## Hello there, my name is Adrian, and I am a IT begginer 👋
+## Hello there, my name is Adrian, and I am a IT beginner👋
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
