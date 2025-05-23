@@ -3,9 +3,10 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory (Directory service)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/AdrianT800/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Active Directory: Preparing AD Infrastructure](https://github.com/AdrianT800/osticket-prereqs)
+  - [Active Directory: Deploying Active Directory](https://github.com/joshmadakorcc/post-install-config)
+  - [Active Directory: Creating Users with Powershell](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Active Directory: Group Policy and Managing Accounts](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
