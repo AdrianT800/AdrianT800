@@ -4,7 +4,7 @@
 
 - <b>Active Directory (Directory service)</b>
   - [Active Directory: Preparing Active Directory Infrastructure](https://github.com/AdrianT800/Preparing-AD-Infrastructure)
-  - [Active Directory: Deploying Active Directory](https://github.com/joshmadakorcc/post-install-config)
+  - [Active Directory: Deploying Active Directory](https://github.com/AdrianT800/Deploying-Active-Directory)
   - [Active Directory: Creating Users with Powershell](https://github.com/joshmadakorcc/ticket-lifecycle)
   - [Active Directory: Group Policy and Managing Accounts](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Microsoft Azure</b>
