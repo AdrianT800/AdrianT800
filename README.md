@@ -6,7 +6,7 @@
   - [Active Directory: Preparing Active Directory Infrastructure](https://github.com/AdrianT800/Preparing-AD-Infrastructure)
   - [Active Directory: Deploying Active Directory](https://github.com/AdrianT800/Deploying-Active-Directory)
   - [Active Directory: Creating Users with Powershell](https://github.com/AdrianT800/Creating-Users-with-Powershell)
-  - [Active Directory: Group Policy and Managing Accounts](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Active Directory: Group Policy and Managing Accounts](https://github.com/AdrianT800/Group-Policy-Managing/tree/main)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
