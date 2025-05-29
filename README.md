@@ -3,6 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory (Directory service)</b>
+  - [Active Directory: Overview & Requirements](https://github.com/AdrianT800/Preparing-AD-Infrastructure)
   - [Active Directory: Preparing Active Directory Infrastructure](https://github.com/AdrianT800/Preparing-AD-Infrastructure)
   - [Active Directory: Deploying Active Directory](https://github.com/AdrianT800/Deploying-Active-Directory)
   - [Active Directory: Creating Users with Powershell](https://github.com/AdrianT800/Creating-Users-with-Powershell)
