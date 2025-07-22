@@ -11,6 +11,13 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://i.imgur.com/iwJMyps.jpeg" />][linkedin] 714-417-1326
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://i.imgur.com/v05xHy2.png" />][Gmail] adrianalextorres@gmail.com
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] https://www.linkedin.com/in/adrian-torres-383739368/
+
+[Gmail]: adrianalextorres@gmail.com
 
 [linkedin]: https://www.linkedin.com/in/adrian-torres-383739368/
